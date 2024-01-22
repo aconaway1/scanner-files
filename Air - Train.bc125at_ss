@@ -35,18 +35,18 @@ C-Freq	7	K49A CTAF	123000000	Auto	Off	Off	2	Off
 C-Freq	8	KJZP CTAF	122725000	Auto	Off	Off	2	Off
 C-Freq	9	K47A CTAF	119825000	Auto	Off	Off	2	Off
 C-Freq	10		0	Auto	Off	On	2	Off
-C-Freq	11	AHS APP	132475000	Auto	Off	Off	2	Off
-C-Freq	12	AHS CTAF	126300000	Auto	Off	Off	2	Off
-C-Freq	13	AHS ASOS	132875000	Auto	Off	Off	2	Off
-C-Freq	14		0	Auto	Off	On	2	Off
-C-Freq	15		0	Auto	Off	On	2	Off
-C-Freq	16		0	Auto	Off	On	2	Off
-C-Freq	17		0	Auto	Off	On	2	Off
-C-Freq	18		0	Auto	Off	On	2	Off
-C-Freq	19		0	Auto	Off	On	2	Off
-C-Freq	20		0	Auto	Off	On	2	Off
-C-Freq	21		0	Auto	Off	On	2	Off
-C-Freq	22		0	Auto	Off	On	2	Off
+C-Freq	11	KAHN APP	132475000	Auto	Off	Off	2	Off
+C-Freq	12	KAHN CTAF	126300000	Auto	Off	Off	2	Off
+C-Freq	13	KAHN GROUND	121800000	Auto	Off	Off	2	Off
+C-Freq	14	KAHN TOWER	126300000	Auto	Off	On	2	Off
+C-Freq	15	KAHN TOWER	338275000	Auto	Off	On	2	Off
+C-Freq	16	KPDK CTAF	120900000	Auto	Off	On	2	Off
+C-Freq	17	KPDK UNICOM	122950000	Auto	Off	On	2	Off
+C-Freq	18	KPDK ATIS	128400000	Auto	Off	On	2	Off
+C-Freq	19	KPDK GROUND	121600000	Auto	Off	On	2	Off
+C-Freq	20	KPDK TOWER	120900000	Auto	Off	On	2	Off
+C-Freq	21	KPDK TOWER	281500000	Auto	Off	On	2	Off
+C-Freq	22	KPDK TOWER	127200000	Auto	Off	On	2	Off
 C-Freq	23		0	Auto	Off	On	2	Off
 C-Freq	24		0	Auto	Off	On	2	Off
 C-Freq	25		0	Auto	Off	On	2	Off
