@@ -144,8 +144,8 @@ C-Freq	114	NS Inman Yard	160365000	Auto	Off	On	2	Off
 C-Freq	115	NS North Road	160275000	Auto	Off	On	2	Off
 C-Freq	116	NS Pied Road	160905000	Auto	Off	On	2	Off
 C-Freq	117	NS Grnvl Road	160905000	Auto	Off	On	2	Off
-C-Freq	118		0	Auto	Off	On	2	Off
-C-Freq	119		0	Auto	Off	On	2	Off
+C-Freq	118	NS 42	160740000	Auto	Off	On	2	Off
+C-Freq	119	NS 56	160950000	Auto	Off	On	2	Off
 C-Freq	120		0	Auto	Off	On	2	Off
 C-Freq	121	CSX Dispatch 1	160290000	Auto	Off	On	2	Off
 C-Freq	122	CSX Dispatch 2	161520000	Auto	Off	On	2	Off
